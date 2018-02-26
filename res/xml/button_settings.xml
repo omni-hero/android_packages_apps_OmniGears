@@ -54,6 +54,12 @@
         android:key="button_keys"
         android:title="@string/button_keys_title" >
 
+        <org.omnirom.omnigears.preference.SystemSettingSwitchPreference
+            android:key="button_home_wake_screen"
+            android:title="@string/button_home_wake_title"
+            android:summary="@string/button_home_wake_summary"
+            android:defaultValue="false" />
+
         <SwitchPreference
             android:key="navigation_bar_show"
             android:title="@string/navigation_bar_show_title"

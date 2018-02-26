@@ -68,7 +68,7 @@
     <string name="volume_button_music_control_summary">Long press volume buttons to switch tracks while screen off</string>
     <string name="keys_action_sleep">Go to sleep</string>
     <string name="keys_action_omniswitch">OmniSwitch recents</string>
-    <string name="button_home_wake_title">Button wake</string>
+    <string name="button_home_wake_title">Button Home Wake</string>
     <string name="button_home_wake_summary">Pressing the home button will wake the device</string>
     <string name="button_home_answers_call_title">Button answers call</string>
     <string name="button_home_answers_call_summary">Pressing the home button will answer incoming call</string>
